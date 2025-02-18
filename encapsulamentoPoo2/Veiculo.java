@@ -71,9 +71,13 @@ public class Veiculo {
 
     @Override
     public String toString() {
-        return "Veiculo [placa=" + placa + ", cor=" + cor + ", numeroPassageiros=" + numeroPassageiros
-                + ", capacidadeTanque=" + capacidadeTanque + ", velocidadeMax=" + velocidadeMax + ", consumoMedio="
-                + consumoMedio + "]";
+        return "\n= = Veiculo = =" +
+        "\nPlaca: " + placa + 
+        "\nCor: " + cor + 
+        "\nNímero de Passageiros: " + numeroPassageiros+ 
+        "\nCapacidade do Tanque: " + capacidadeTanque + 
+        "\nVelocidade Máxima: " + velocidadeMax + 
+        "\nConsumo Médio: "+ consumoMedio;
     }
 
     
