@@ -39,9 +39,9 @@ public class Cliente {
 
         @Override
         public String toString() {
-            return "\nCliente \nNome:" + nome +
-                        "\n Email: " + email + 
-                        "\n Senha: " + senha + "";
+            return       "\nNome:" + nome + 
+                        "\n Email: " + email  +
+                        "\n Senha: " + senha;
         }
     
         
