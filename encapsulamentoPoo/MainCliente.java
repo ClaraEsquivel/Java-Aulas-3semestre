@@ -14,7 +14,9 @@ public class MainCliente {
         
         Cliente cliente2 = new Cliente("Maria", "Maria@gmail.com", "123456");
         System.out.println(cliente2.toString());
-    
+        
+        Cliente cliente3 = new Cliente("Miguel", "Miguel@gmail.com", "987654");
+        System.out.println(cliente3.toString());
     }
 }
 
