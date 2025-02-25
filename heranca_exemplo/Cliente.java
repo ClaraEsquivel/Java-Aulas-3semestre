@@ -1,4 +1,4 @@
-package pessoa;
+/*package pessoa;*/
 
 public class Cliente extends Pessoa{
     private String dataDaCompra;

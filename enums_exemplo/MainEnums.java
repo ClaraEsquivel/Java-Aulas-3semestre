@@ -1,4 +1,4 @@
-package enums;
+package enums_exemplo;
 
 public class MainEnums {
     public static void main(String[] args) {

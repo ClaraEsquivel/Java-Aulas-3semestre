@@ -1,4 +1,4 @@
-package pessoa;
+/*package pessoa;*/
 
 public abstract class Pessoa {
     protected String nome;
@@ -25,6 +25,4 @@ public abstract class Pessoa {
         this.idade = idade;
     }
 
-   
-    
 }
