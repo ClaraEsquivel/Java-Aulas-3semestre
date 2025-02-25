@@ -1,4 +1,4 @@
-package enums;
+package enums_exemplo;
 
 public class Pessoa {
     private String nome;
